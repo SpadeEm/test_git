@@ -9,6 +9,6 @@ public class roll {
 		return x;
 	}
 public static void main(String[] args) {
-	System.out.println(add(9,6));
+	System.out.println(add(10,6));
 }
 }
